@@ -5,7 +5,7 @@ import './scss/styles.scss'
 
 // Import all of Bootstrap's JS
 import * as bootstrap from 'bootstrap'
-import nav from './components/navbar/nav';
+
 
 
 
@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-      <nav/>
+     
     </>
   )
 }
